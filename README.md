@@ -275,8 +275,8 @@ int main(void)
   /*
    * lcd.h
    *
-   *  Register Number:212224040233
-   *      Author: PARVEEN SULTHANA J
+   *  Register Number:212224230272
+   *      Author: SRI MATHI S
    */
 
   Lcd_PortType ports[] = { GPIOA, GPIOA, GPIOA, GPIOA };
