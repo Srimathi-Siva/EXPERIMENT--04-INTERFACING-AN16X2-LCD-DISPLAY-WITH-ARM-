@@ -687,7 +687,8 @@ void Lcd_clear(Lcd_HandleTypeDef * lcd);
 ``` 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- <img width="953" height="698" alt="image" src="https://github.com/user-attachments/assets/b79152f3-ee7a-4056-83c8-0c4660519b10" />
+<img width="886" height="647" alt="image" src="https://github.com/user-attachments/assets/56a5ae65-41cd-45d7-b832-2e928101e2c6" />
+
 
  
 ## Result :
